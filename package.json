@@ -1,7 +1,7 @@
 {
   "name": "starwars-express",
   "version": "1.0.0",
-  "description": "",
+  "description": "* `server1.js`",
   "main": "server1.js",
   "dependencies": {
     "express": "^4.16.3"
@@ -13,5 +13,16 @@
     "watch": "nodemon server1.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devcwilkey/classStarWars.git"
+  },
+  "keywords": [
+    "theForce"
+  ],
+  "bugs": {
+    "url": "https://github.com/devcwilkey/classStarWars/issues"
+  },
+  "homepage": "https://github.com/devcwilkey/classStarWars#readme"
 }
